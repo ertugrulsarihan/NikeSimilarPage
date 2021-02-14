@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NikeSimilarPage/static/css/main.a260f64d.chunk.css",
+    "main.js": "/NikeSimilarPage/static/js/main.1c7faece.chunk.js",
+    "main.js.map": "/NikeSimilarPage/static/js/main.1c7faece.chunk.js.map",
+    "runtime-main.js": "/NikeSimilarPage/static/js/runtime-main.4fbd3458.js",
+    "runtime-main.js.map": "/NikeSimilarPage/static/js/runtime-main.4fbd3458.js.map",
+    "static/js/2.b9174e30.chunk.js": "/NikeSimilarPage/static/js/2.b9174e30.chunk.js",
+    "static/js/2.b9174e30.chunk.js.map": "/NikeSimilarPage/static/js/2.b9174e30.chunk.js.map",
+    "static/js/3.bfc3034c.chunk.js": "/NikeSimilarPage/static/js/3.bfc3034c.chunk.js",
+    "static/js/3.bfc3034c.chunk.js.map": "/NikeSimilarPage/static/js/3.bfc3034c.chunk.js.map",
+    "index.html": "/NikeSimilarPage/index.html",
+    "static/css/main.a260f64d.chunk.css.map": "/NikeSimilarPage/static/css/main.a260f64d.chunk.css.map",
+    "static/js/2.b9174e30.chunk.js.LICENSE.txt": "/NikeSimilarPage/static/js/2.b9174e30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fbd3458.js",
+    "static/js/2.b9174e30.chunk.js",
+    "static/css/main.a260f64d.chunk.css",
+    "static/js/main.1c7faece.chunk.js"
+  ]
+}
