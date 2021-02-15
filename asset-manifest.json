@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NikeSimilarPage/static/css/main.a260f64d.chunk.css",
-    "main.js": "/NikeSimilarPage/static/js/main.1c7faece.chunk.js",
-    "main.js.map": "/NikeSimilarPage/static/js/main.1c7faece.chunk.js.map",
+    "main.js": "/NikeSimilarPage/static/js/main.5f6832f9.chunk.js",
+    "main.js.map": "/NikeSimilarPage/static/js/main.5f6832f9.chunk.js.map",
     "runtime-main.js": "/NikeSimilarPage/static/js/runtime-main.4fbd3458.js",
     "runtime-main.js.map": "/NikeSimilarPage/static/js/runtime-main.4fbd3458.js.map",
     "static/js/2.b9174e30.chunk.js": "/NikeSimilarPage/static/js/2.b9174e30.chunk.js",
@@ -11,12 +11,25 @@
     "static/js/3.bfc3034c.chunk.js.map": "/NikeSimilarPage/static/js/3.bfc3034c.chunk.js.map",
     "index.html": "/NikeSimilarPage/index.html",
     "static/css/main.a260f64d.chunk.css.map": "/NikeSimilarPage/static/css/main.a260f64d.chunk.css.map",
-    "static/js/2.b9174e30.chunk.js.LICENSE.txt": "/NikeSimilarPage/static/js/2.b9174e30.chunk.js.LICENSE.txt"
+    "static/js/2.b9174e30.chunk.js.LICENSE.txt": "/NikeSimilarPage/static/js/2.b9174e30.chunk.js.LICENSE.txt",
+    "static/media/Michael.e07f58e0.jpg": "/NikeSimilarPage/static/media/Michael.e07f58e0.jpg",
+    "static/media/NikeJordan.7b92dbb5.jpg": "/NikeSimilarPage/static/media/NikeJordan.7b92dbb5.jpg",
+    "static/media/carousel1.28d84ae6.jpg": "/NikeSimilarPage/static/media/carousel1.28d84ae6.jpg",
+    "static/media/carousel2.9af98eee.jpg": "/NikeSimilarPage/static/media/carousel2.9af98eee.jpg",
+    "static/media/carousel3.44d6533f.jpg": "/NikeSimilarPage/static/media/carousel3.44d6533f.jpg",
+    "static/media/carousel4.36a66aa5.jpg": "/NikeSimilarPage/static/media/carousel4.36a66aa5.jpg",
+    "static/media/carousel5.b5d1cf62.jpg": "/NikeSimilarPage/static/media/carousel5.b5d1cf62.jpg",
+    "static/media/carousel6.7f4a18c4.jpg": "/NikeSimilarPage/static/media/carousel6.7f4a18c4.jpg",
+    "static/media/carousel7.17464e24.jpg": "/NikeSimilarPage/static/media/carousel7.17464e24.jpg",
+    "static/media/carousel8.bd8be46c.png": "/NikeSimilarPage/static/media/carousel8.bd8be46c.png",
+    "static/media/carousel9.a26c09f1.jpg": "/NikeSimilarPage/static/media/carousel9.a26c09f1.jpg",
+    "static/media/fly.c671ce97.jpg": "/NikeSimilarPage/static/media/fly.c671ce97.jpg",
+    "static/media/nike.7a7bf095.jpg": "/NikeSimilarPage/static/media/nike.7a7bf095.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4fbd3458.js",
     "static/js/2.b9174e30.chunk.js",
     "static/css/main.a260f64d.chunk.css",
-    "static/js/main.1c7faece.chunk.js"
+    "static/js/main.5f6832f9.chunk.js"
   ]
 }
